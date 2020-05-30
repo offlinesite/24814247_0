@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:11
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.023222,
+https://cdn.jsdelivr.net/gh/offlinesite/24814247_0/0.kar?e=1590840003&l=0&h=5731c3b06441a97790533bfdb5689d5e
+#EXTINF:10.000000,
+https://cdn.jsdelivr.net/gh/offlinesite/24814247_0/1.kar?e=1590840003&l=0&h=5731c3b06441a97790533bfdb5689d5e
+#EXTINF:10.000000,
+https://cdn.jsdelivr.net/gh/offlinesite/24814247_0/2.kar?e=1590840003&l=0&h=5731c3b06441a97790533bfdb5689d5e
+#EXTINF:10.000000,
+https://cdn.jsdelivr.net/gh/offlinesite/24814247_0/3.kar?e=1590840003&l=0&h=5731c3b06441a97790533bfdb5689d5e
+#EXTINF:2.400000,
+https://cdn.jsdelivr.net/gh/offlinesite/24814247_0/4.kar?e=1590840003&l=0&h=5731c3b06441a97790533bfdb5689d5e
+#EXT-X-ENDLIST
